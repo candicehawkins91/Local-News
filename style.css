@@ -1,0 +1,40 @@
+
+main{ 
+    text-align: center; font-family: 'Lucida Sans Regular'
+}
+table,
+td,
+th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 70px;
+}
+td {
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 50px 50px 50px 50px;
+ }
+
+ li {
+display: inline;  text-align: center;
+ }
